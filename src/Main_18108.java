@@ -1,8 +1,8 @@
 import java.util.Scanner;
-public class Main_10926 {
+public class Main_18108 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        String id = sc.next();
-        System.out.println(id + "??!");
+        int year = sc.nextInt();
+        System.out.println(year - 543);
     }
 }

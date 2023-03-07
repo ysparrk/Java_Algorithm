@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aae38de7-41a7-4317-8afd-afb58693afc8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Main_10430.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_18108.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Algorithm" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main_10926.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main_10926.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../study" beforeDir="false" afterPath="$PROJECT_DIR$/../study" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../보충수업/how_to_git.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../보충수업/python기초.ipynb" beforeDir="false" />
@@ -40,7 +45,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -53,29 +58,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Main_10869">
-    <configuration name="Main_1000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_1000" />
-      <module name="Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main_1001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_1001" />
-      <module name="Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Application.Main_10430">
     <configuration name="Main_1008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main_1008" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_10430" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_10430" />
       <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,8 +86,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_10998" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_10998" />
+    <configuration name="Main_10926" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_10926" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_18108" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_18108" />
       <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main_10430" />
+        <item itemvalue="Application.Main_18108" />
+        <item itemvalue="Application.Main_10926" />
         <item itemvalue="Application.Main_10869" />
         <item itemvalue="Application.Main_1008" />
-        <item itemvalue="Application.Main_10998" />
-        <item itemvalue="Application.Main_1001" />
-        <item itemvalue="Application.Main_1000" />
       </list>
     </recent_temporary>
   </component>
@@ -115,5 +120,16 @@
       <updated>1678192335709</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main_10430.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
