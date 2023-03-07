@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aae38de7-41a7-4317-8afd-afb58693afc8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Algorithm" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study" beforeDir="false" afterPath="$PROJECT_DIR$/../study" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../보충수업/how_to_git.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../보충수업/python기초.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../시험/서울3반_박영서.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../시험/서울3반_박영서/월말평가_01_Python_10problems/problems/problem01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../시험/서울3반_박영서/월말평가_01_Python_10problems/problems/problem02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../시험/서울3반_박영서/월말평가_01_Python_10problems/problems/problem03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../시험/서울3반_박영서/월말평가_01_Python_10problems/problems/problem04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../시험/서울3반_박영서/월말평가_01_Python_10problems/problems/problem05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../시험/서울3반_박영서/월말평가_01_Python_10problems/problems/problem06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../시험/서울3반_박영서/월말평가_01_Python_10problems/problems/problem07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../시험/서울3반_박영서/월말평가_01_Python_10problems/problems/problem08.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../시험/서울3반_박영서/월말평가_01_Python_10problems/problems/problem09.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../시험/서울3반_박영서/월말평가_01_Python_10problems/problems/problem10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../월말평가/9기_python_월말평가_예시/python_월말평가_예시/파이썬반_Python_월말평가_예시.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../월말평가/9기_python_월말평가_예시/python_월말평가_예시/파이썬반_Python_월말평가_예시/problem01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../월말평가/9기_python_월말평가_예시/python_월말평가_예시/파이썬반_Python_월말평가_예시/problem02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../월말평가/9기_python_월말평가_예시/python_월말평가_예시/파이썬반_Python_월말평가_예시/problem03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../월말평가/9기_python_월말평가_예시/python_월말평가_예시/파이썬반_Python_월말평가_예시/problem04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../월말평가/9기_python_월말평가_예시/python_월말평가_예시/파이썬반_월말평가_시험_가이드.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Mgblpgil9HTodLrsWaWhGyQ0qr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Main_10869">
+    <configuration name="Main_1000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_1000" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_1001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_1001" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_1008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_1008" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_10869" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_10869" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_10998" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_10998" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main_10869" />
+        <item itemvalue="Application.Main_1008" />
+        <item itemvalue="Application.Main_10998" />
+        <item itemvalue="Application.Main_1001" />
+        <item itemvalue="Application.Main_1000" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aae38de7-41a7-4317-8afd-afb58693afc8" name="Changes" comment="" />
+      <created>1678192335709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678192335709</updated>
+    </task>
+    <servers />
+  </component>
+</project>
