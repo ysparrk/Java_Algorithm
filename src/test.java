@@ -9,5 +9,10 @@
 //        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 //        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 //        StringTokenizer tokenizer = new StringTokenizer(str);
+//
+//        int score = Integer.parseInt(br.readLine());
+//
+//        bw.flush();
+//        bw.close();
 //    }
 //}
