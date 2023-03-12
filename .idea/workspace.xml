@@ -5,34 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aae38de7-41a7-4317-8afd-afb58693afc8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main_14681.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_2525.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_2753.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_2884.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithm" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_10950.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_2480.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_25304.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_2739.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_8393.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Main_1330.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Main_1330.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_9498.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main_9498.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../보충수업/how_to_git.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../보충수업/python기초.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../시험/서울3반_박영서.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../시험/서울3반_박영서/월말평가_01_Python_10problems/problems/problem01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../시험/서울3반_박영서/월말평가_01_Python_10problems/problems/problem02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../시험/서울3반_박영서/월말평가_01_Python_10problems/problems/problem03.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../시험/서울3반_박영서/월말평가_01_Python_10problems/problems/problem04.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../시험/서울3반_박영서/월말평가_01_Python_10problems/problems/problem05.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../시험/서울3반_박영서/월말평가_01_Python_10problems/problems/problem06.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../시험/서울3반_박영서/월말평가_01_Python_10problems/problems/problem07.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../시험/서울3반_박영서/월말평가_01_Python_10problems/problems/problem08.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../시험/서울3반_박영서/월말평가_01_Python_10problems/problems/problem09.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../시험/서울3반_박영서/월말평가_01_Python_10problems/problems/problem10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../월말평가/9기_python_월말평가_예시/python_월말평가_예시/파이썬반_Python_월말평가_예시.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../월말평가/9기_python_월말평가_예시/python_월말평가_예시/파이썬반_Python_월말평가_예시/problem01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../월말평가/9기_python_월말평가_예시/python_월말평가_예시/파이썬반_Python_월말평가_예시/problem02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../월말평가/9기_python_월말평가_예시/python_월말평가_예시/파이썬반_Python_월말평가_예시/problem03.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../월말평가/9기_python_월말평가_예시/python_월말평가_예시/파이썬반_Python_월말평가_예시/problem04.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../월말평가/9기_python_월말평가_예시/python_월말평가_예시/파이썬반_월말평가_시험_가이드.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,18 +38,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/yspark/Desktop/Coding/Java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
-  <component name="RunManager" selected="Application.Main_2525">
-    <configuration name="Main_14681" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_14681" />
+}]]></component>
+  <component name="RunManager" selected="Application.Main_8393">
+    <configuration name="Main_10950" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_10950" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_2480" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_2480" />
       <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,22 +71,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_2753" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_2753" />
+    <configuration name="Main_2739" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_2739" />
       <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_2884" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_2884" />
-      <module name="Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main_9498" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_9498" />
+    <configuration name="Main_8393" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_8393" />
       <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main_8393" />
+        <item itemvalue="Application.Main_10950" />
+        <item itemvalue="Application.Main_2739" />
+        <item itemvalue="Application.Main_2480" />
         <item itemvalue="Application.Main_2525" />
-        <item itemvalue="Application.Main_2884" />
-        <item itemvalue="Application.Main_14681" />
-        <item itemvalue="Application.Main_2753" />
-        <item itemvalue="Application.Main_9498" />
       </list>
     </recent_temporary>
   </component>
