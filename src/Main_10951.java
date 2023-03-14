@@ -6,14 +6,13 @@ public class Main_10951 {
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         StringTokenizer st;
         String str;
-        // 1. while 문 사용
+        // 1. while 문 사용 > 출력하려면 ctrl+d
         while ((str = br.readLine()) != null) {
             st = new StringTokenizer(str, " ");
             int a = Integer.parseInt(st.nextToken());
             int b = Integer.parseInt(st.nextToken());
             bw.write(a + b + "\n");
         }
-        br.close();
         bw.flush();
         bw.close();
     }

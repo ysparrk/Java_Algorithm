@@ -9,16 +9,17 @@ public class Main_10871 {
         int n = Integer.parseInt(st.nextToken());
         int x = Integer.parseInt(st.nextToken());
 
-        // 2.
+        // 2. readline 한번 더 받기
+        st = new StringTokenizer(br.readLine(), " ");
+
         for (int i = 0; i < n; i++) {
             int num = Integer.parseInt(st.nextToken());
             if (num < x)
-                bw.write(num);
+                bw.write(num + " ");
         }
 
         br.close();
         bw.flush();
         bw.close();
-
     }
 }
