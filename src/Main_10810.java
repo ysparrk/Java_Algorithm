@@ -8,11 +8,19 @@ public class Main_10810 {
 
         StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 
-        int n = Integer.parseInt(br.readLine());
-        int m = Integer.parseInt(br.readLine());
+        int n = Integer.parseInt(br.readLine()); // 바구니 개수
+        int m = Integer.parseInt(br.readLine()); // m번 공을 넣는다
 
-        for (int i = 0; i <= n; i++) {
-            StringTokenizer st = new StringTokenizer(br.readLine(), " ");
+        // 1. 크기 n, 0이 들어있는 basket 배열 생성
+        int n = Integer.parseInt(br.readLine());
+        int[] basket = new int[n];
+        for (int = 1)
+
+        for (int i = 0; i <= m; i++) {
+            st = new StringTokenizer(br.readLine(), " ");
+            int i = Integer.parseInt(br.readLine());
+            int j = Integer.parseInt(br.readLine());
+            int k = Integer.parseInt(br.readLine());
 
         }
 
